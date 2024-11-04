@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "TR7"
   pronouns         : # example: "he/him"  
-  bio              : "Assistant Professor at ?"
-  location         : "Lyon, France"
-  employer         : "Red Brick University?"
+  bio              : "Assistant Professor at Clermont Auvergne University"
+  location         : "Clermont-Ferrand, France"
+  employer         : "Clermont Auvergne University"
   uri              : # URL
   email            : "none@example.org" 
 
